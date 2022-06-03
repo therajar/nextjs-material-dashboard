@@ -53,9 +53,9 @@ function Dashboard() {
               <CardIcon color="warning">
                 <Icon>content_copy</Icon>
               </CardIcon>
-              <p className={classes.cardCategory}>Used Space</p>
+              <p className={classes.cardCategory}>Bitcoin</p>
               <h3 className={classes.cardTitle}>
-                49/50 <small>GB</small>
+                1 <small>BTC</small>
               </h3>
             </CardHeader>
             <CardFooter stats>
